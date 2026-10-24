@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, me David Correia! 👋</h1>
+<h1 align="center">Olá, me chamo David Correia! 👋</h1>
 
 <h3 align="center">
   Estudante de ADS | Desenvolvedor Back-end em formação
