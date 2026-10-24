@@ -3,7 +3,7 @@
 
 # David Correia
 
-### Desenvolvedor Back-end em formação | Java
+### Desenvolvedor de Software | Java | JavaScript
 
 ---
 
