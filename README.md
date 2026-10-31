@@ -1,28 +1,39 @@
+<h1 align="center">David Correia</h1>
+<h3 align="center">Desenvolvedor de Software</h3>
 
-<div align="left">
-
-# David Correia
-
-### Desenvolvedor de Software | Java | JavaScript
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kdavidcorreia@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+</p>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Estudante de ADS, apaixonado por tecnologia e desenvolvimento de software. Atualmente aprofundando meus conhecimentos em Java, POO, lógica de programação e estruturas de dados.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e desenvolvimento de software. Foco em construir uma base sólida em **Java**, **Programação Orientada a Objetos**, **lógica de programação** e **estruturas de dados**, aplicando o que aprendo em projetos práticos.
 
-## Tecnologias e conhecimentos
+## 🛠️ Stack e conhecimentos
 
-![Java](https://img.shields.io/badge/Java-003B25?style=flat&logo=openjdk&logoColor=00C853)
-![JavaScript](https://img.shields.io/badge/JavaScript-172554?style=flat&logo=javascript&logoColor=3B82F6)
-![HTML](https://img.shields.io/badge/HTML-303030?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-303030?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-2D2045?style=flat&logo=git&logoColor=C084FC)
-![GitHub](https://img.shields.io/badge/GitHub-2D2045?style=flat&logo=github&logoColor=C084FC)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-## Objetivos de estudo
+## 📫 Contato
 
-POO • Estruturas de dados • APIs REST • Banco de dados • Spring Boot
+Aberto a oportunidades de estágio e a trocas de conhecimento. Vamos conversar!
 
-</div>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dvcorreia08&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub"/>
+</p>
 
