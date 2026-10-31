@@ -32,8 +32,3 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnol
 Aberto a oportunidades de estágio e a trocas de conhecimento. Vamos conversar!
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvcorreia08&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub"/>
-</p>
-
